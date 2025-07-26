@@ -10,13 +10,13 @@ Hi, I’m Yandro an aspiring IT Analyst with a passion for cloud automation and 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Active Directory and Group Policy             | <a href="https://google.com">Detection Lab</a>|
+| Active Directory and Group Policy             |                            |
 | Network Traffic Monitoring                    | <a href="https://google.com">Detection Lab</a>|
 | SQL                                           | SOC Automation Lab|
-| Ticketing Systems: Osticket                  | SOC Automation Lab|
+| Ticketing Systems: Osticket                   | SOC Automation Lab|
 | WireShark                                     | SOC Automation Lab|
 | Network And File SHaring                      | SOC Automation Lab|
-| Linux                                         | SOC Automation Lab|
+| Linux                                         |   <a href="https://github.com/Ycastillo2003/Linux-Labs/blob/main/README.md">Linux Labs</a>|
 
 
 
