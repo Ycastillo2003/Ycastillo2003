@@ -27,3 +27,9 @@
 # Network Monitoring Labs 📹
 - <a href="https://github.com/Ycastillo2003/Monitoring-Network-Activities">Deploying Azure Virtual Machines and Installing WireShark.</a>☺</h1>
 - <a href="https://github.com/Ycastillo2003/Monitoring-network-protocols-with-Wireshark./blob/main/README.md">Monitoring network protocols with Wireshark</a>☺</h1>
+
+
+
+
+
+# Currently working these certifications <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/1ceb5888-105e-492a-b0e5-701dc3abd22b" />
