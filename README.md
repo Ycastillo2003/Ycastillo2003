@@ -11,9 +11,7 @@ Hi, I’m Yandro — an aspiring IT Analyst with a passion for cloud automation 
 
 ## 💼 Skills
 
-<p align="left">
-  <!-- SQL -->
-  <img alt="SQL" width="40px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<p align="left"><img alt="SQL" width="40px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   
   <!-- Microsoft Office -->
   <img alt="Microsoft Office" width="40px" style="padding-right:15px;" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_Logo_%282019–present%29.svg" />
