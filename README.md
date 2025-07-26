@@ -29,5 +29,5 @@ Hi, I’m Yandro an aspiring IT Analyst with a passion for cloud automation and 
 
 
 
-
+<h2>🤳🏾Connect with me:</h2>
 <a href="https://www.linkedin.com/in/yandro-castillo-4a8908239/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
