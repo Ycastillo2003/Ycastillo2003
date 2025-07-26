@@ -6,7 +6,7 @@ Hi, I’m Yandro an aspiring IT Analyst with a passion for cloud automation and 
 
  
  
-# 💼 Languages Tools and Skills 🧰
+💼 Languages Tools and Skills 🧰
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
