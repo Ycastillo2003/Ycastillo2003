@@ -16,7 +16,7 @@ Hi, I’m Yandro an aspiring IT Analyst with a passion for cloud automation and 
 | Ticketing Systems: Osticket                   |<a  href="https://github.com/Ycastillo2003/osTicket-labs/blob/main/README.md">Osticket Labs</a>| 
 | WireShark                                     | <a href="https://github.com/Ycastillo2003/Monitoring-network-protocols-with-Wireshark.">Network Monitoring Labs</a>|
 | Network And File SHaring                      | <a href="https://github.com/Ycastillo2003/Network-and-File-Sharing-">Network File Sharing Lab</a>|
-| Main Platforme Used                           |  Azure|
+| Main Platform Used                           |  Azure|
 
 
 
