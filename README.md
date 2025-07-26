@@ -15,7 +15,7 @@ Hi, I’m Yandro an aspiring IT Analyst with a passion for cloud automation and 
 | SQL                                           | SOC Automation Lab|
 | Ticketing Systems: Osticket                   | SOC Automation Lab|
 | WireShark                                     | <a href="https://github.com/Ycastillo2003/Monitoring-network-protocols-with-Wireshark.">Network Monitoring Labs</a>|
-| Network And File SHaring                      | <a href="https://github.com/Ycastillo2003/Network-and-File-Sharing-">Network Fikle Sharing Lab</a>|
+| Network And File SHaring                      | <a href="https://github.com/Ycastillo2003/Network-and-File-Sharing-">Network File Sharing Lab</a>|
 | Azure                                         |                                                  |
 
 
