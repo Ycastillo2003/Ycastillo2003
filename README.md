@@ -14,7 +14,7 @@ Hi, I’m Yandro an aspiring IT Analyst with a passion for cloud automation and 
 | Network Traffic Monitoring                    | <a href="https://google.com">Detection Lab</a>|
 | SQL                                           | SOC Automation Lab|
 | Ticketing Systenms: Osticket                  | SOC Automation Lab|
-| Wires Shark                                   | SOC Automation Lab|
+| WireShark                                   | SOC Automation Lab|
 | Network And File SHaring                      | SOC Automation Lab|
 | Linux                                         | SOC Automation Lab|
 
