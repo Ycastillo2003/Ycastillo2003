@@ -10,12 +10,13 @@ Hi, I’m Yandro an aspiring IT Analyst with a passion for cloud automation and 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation| SOC Automation Lab|
+| Active Directory and Group Policy             | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring                    | <a href="https://google.com">Detection Lab</a>|
+| SQL                                           | SOC Automation Lab|
+| Ticketing Systenms: Osticket                  | SOC Automation Lab|
+| Wires Shark                                   | SOC Automation Lab|
+| Network And File SHaring                      | SOC Automation Lab|
+| Linux                                         | SOC Automation Lab|
 
 
 
