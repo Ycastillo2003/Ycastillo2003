@@ -10,8 +10,8 @@ Hi, I’m Yandro an aspiring IT Analyst with a passion for cloud automation and 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Active Directory and Group Policy             |                            |
-| Network Traffic Monitoring                    | <a href="https://google.com">Detection Lab</a>|
+| Active Directory and Group Policy             |<a href="https://google.com">Detection Lab</a>                            |
+| Network Traffic Monitoring                    | <a href="https://github.com/Ycastillo2003/Managing-Users-access-and-group-policies-with-active-directory."> Mananging Users and Group Policy lab</a>|
 | SQL                                           | SOC Automation Lab|
 | Ticketing Systems: Osticket                   | SOC Automation Lab|
 | WireShark                                     | SOC Automation Lab|
@@ -21,6 +21,7 @@ Hi, I’m Yandro an aspiring IT Analyst with a passion for cloud automation and 
 
 
 
+<h2>Installation Steps</h2>
 
 
 
@@ -31,3 +32,6 @@ Hi, I’m Yandro an aspiring IT Analyst with a passion for cloud automation and 
 
 <h2>🤳🏾Connect with me:</h2>
 <a href="https://www.linkedin.com/in/yandro-castillo-4a8908239/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+
+https://github.com/Ycastillo2003/Managing-Users-access-and-group-policies-with-active-directory.
